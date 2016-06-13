@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+.inputs{
+	float:right;
+	margin-right:300px;
+	margin-top:20px;
+}
+.labels{
+	float:left;
+	margin-left:330px;
+	font:small-caption;
+	font-size:27px;
+	margin-top:40px;
+}
+.buttons{
+	float:left;
+	margin-left:210px;
+	margin-top:10px;
+	margin-bottom:50px;
+}
+.buttons input{
+	-moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    background-color:#4F4F4F;
+	width:100px;
+	height:30px;
+    border-radius:10px;
+    color:#FFF;
+    font-size:12px;
+    margin-left:10px;
+    padding:2px 8px;
+    text-decoration:none;
+}
+.buttons input:hover{
+	background:#575757;
+    color:#FFF;
+	cursor:pointer; 
+}
+.nav_btn{
+	-moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    background-color:#4F4F4F;
+	width:30px;
+	height:30px;
+    border-radius:10px;
+    color:#FFF;
+    font-size:12px;
+    margin-left:10px;
+    padding:2px 8px;
+    text-decoration:none;
+}
+.nav_btn:hover{
+	background:#575757;
+	color:#FFF;
+	cursor:pointer;
+	
+}
+.btn{
+	-moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    background-color:#4F4F4F;
+	width:100px;
+	height:30px;
+    border-radius:10px;
+    color:#FFF;
+    font-size:12px;
+    margin-left:10px;
+    padding:2px 8px;
+    text-decoration:none;
+}
+.btn:hover{
+	cursor:pointer;
+	background:#575757;
+	color:#FFF;
+	
+}
+.btn_confirm{
+	-moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    background-color:#4F4F4F;
+	width:100px;
+	height:30px;
+    border-radius:10px;
+    color:#FFF;
+    font-size:12px;
+    margin-left:225px;
+    padding:2px 8px;
+    text-decoration:none;
+}
+.btn_print{
+		-moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    background-color:#4F4F4F;
+	width:100px;
+	height:30px;
+    border-radius:10px;
+    color:#FFF;
+    font-size:12px;
+    margin-left:10px;
+    padding:2px 8px;
+    text-decoration:none;
+}
+.btn_confirm:hover,.btn_print:hover{
+	cursor:pointer;
+	background:#575757;
+	color:#FFF;
+}
+.page-caption{
+	font:small-caption;
+	font-size:25px;
+}
+.view_bill_form{
+	float:right;
+	margin-top:100px;
+	margin-right:200px;
+	
+}
+.bill_details_form{
+	margin-left:250px;
+}
+.bill_name{
+	margin-left:10px;
+}
+.billname_f{
+	margin-left:10px;
+}
+.bill_tin{
+	margin-left:10px;
+}
+.billtin_f{
+	margin-left:5px;
+}
+.bill_address{
+	margin-left:10px;
+}
+.billaddress_f{
+	margin-left:5px;
+}
+.bill_billno{
+	margin-left:10px;
+}
+.billno_f{
+	margin-left:5px;
+}
+.change_pass_settings{
+	float:right;
+	margin-top:5px;
+	margin-right:715px;
+	font:small-caption;
+	font-size:24px;
+}
+.company_print_details{
+	font:small-caption;
+	margin-left:230px;
+	font-size:20px;
+}

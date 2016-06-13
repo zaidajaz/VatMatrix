@@ -1,0 +1,10 @@
+<?php
+	require_once('pathconfig.php');
+	require_once(INCLUDES.'checkcompany.php');
+	if($exists==true){
+		require_once('add.php');
+	}
+	else{
+		require_once(INCLUDES.'createcompany.php');
+	}
+?>
